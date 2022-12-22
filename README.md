@@ -1,4 +1,4 @@
-# Database-Management-Systems
+# Statistical Analysis of the Effect of Denormalization on Query Resource Consumption and Performance
 Final Project for Database Management Systems
 
 In this paper we explore how denormalization may affect the factors above by performing an in depth comparative analysis of
